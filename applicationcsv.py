@@ -27,8 +27,7 @@ def lambda_handler( event, context ):
     path = ("s3://" + bucket + "/" + key)
 
 
-    print(download_path)
-    print("test0")
+  
 
 
 
